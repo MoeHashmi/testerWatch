@@ -8,7 +8,7 @@ export default function Home() {
         <main>
           <section>
             <h2>Explore Our Watches</h2>
-            <p>High-quality, affordable, and designed in Oman.</p>
+            <p>Assembled in Oman </p>
           </section>
           <section>
             <h2>Latest Models</h2>
